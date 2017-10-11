@@ -22,7 +22,7 @@ using namespace std;
 
 static default_random_engine gen;
 
-const int init_num_particles = 100;
+const int init_num_particles = 90;
 const double init_weight = 1.0;
 
 void ParticleFilter::init(double x, double y, double theta, double std[]) {
